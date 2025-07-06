@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karta_drogowa</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class = "container"></div>
+    <a href="karta.drogowa.html">Reset wartości</a><hr>
+    <p> Autor nie bierze odpowiedzialności za wszelkie błędy.</p>
+<label>Początkowy przebieg:
+  <input type="number" id="poczatkowy_przebieg">
+</label><br>
+<label>Końcowy przebieg:
+  <input type="number" id="koncowy_przebieg">
+</label><br>
+<label>Początkowy stan zbiornika (l):
+  <input type="number" id="poczatkowy_stan_zbiornika">
+</label><br><br>
+    <button onclick="obliczenia()">Wylicz</button>
+    <div id="wynik"></div>
+</div>
+
+</body>
+</html>
