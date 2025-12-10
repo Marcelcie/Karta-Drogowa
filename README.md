@@ -31,9 +31,6 @@ Keeping track of "Road Cards" (Karty Drogowe) manually can be tedious and prone 
 4.  Click **Wylicz (Calculate)** to see the results.
 5.  Use **Reset wartości** to clear the form.
 
-## 📸 Screenshot
-
-![App Screenshot](screenshots/app_preview.png)
 
 ## ⚠️ Disclaimer
 
